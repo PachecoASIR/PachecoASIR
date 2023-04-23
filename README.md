@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Javier:
+
+- 🌱 I’m currently learning DAW.
+- 💬 Ask me about everything you want on my social media.
+- 📫 How to reach me: https://twitter.com/Pchek0.
 <!--
 **PachecoASIR/PachecoASIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
